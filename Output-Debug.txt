@@ -1,0 +1,84 @@
+﻿'GUIBasics.exe' (Win32): Loaded 'C:\Users\yemad\source\repos\GUIBasics\x64\Debug\GUIBasics.exe'. Symbols loaded.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\mscoree.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+The thread 0x4d8c has exited with code 0 (0x0).
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_clr0400.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase_clr0400.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase_clr0400.dll'. 
+'GUIBasics.exe' (Win32): Unloaded 'C:\Windows\System32\ucrtbase_clr0400.dll'
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'GUIBasics.exe' (Win32): Unloaded 'C:\Windows\System32\combase.dll'
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\c5986fd5d6139abd4222b5cb6a32cadf\mscorlib.ni.dll'. 
+'GUIBasics.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'GUIBasics.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\yemad\source\repos\GUIBasics\x64\Debug\GUIBasics.exe'. Symbols loaded.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\diasymreader.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System\6aaf038fc5a894ddf3cbce94407fb772\System.ni.dll'. 
+'GUIBasics.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Drawing\7b4834f232ee0b2acdbb224f8126d451\System.Drawing.ni.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Windows.Forms\21880015ae86d10263ebb0b6b0b96141\System.Windows.Forms.ni.dll'. 
+'GUIBasics.exe' (CLR v4.0.30319: GUIBasics.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (CLR v4.0.30319: GUIBasics.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Core\e950876872d82f53f34ddb39c91b2d04\System.Core.ni.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Configuration\b975269524a5b5c4024312664f699596\System.Configuration.ni.dll'. 
+'GUIBasics.exe' (CLR v4.0.30319: GUIBasics.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (CLR v4.0.30319: GUIBasics.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_64\System.Xml\4b4c18876d4db2b65562def74ec6630f\System.Xml.ni.dll'. 
+'GUIBasics.exe' (CLR v4.0.30319: GUIBasics.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\comctl32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1645_none_91a2a668cc89980b\GdiPlus.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\DWrite.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\TextShaping.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\comctl32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'GUIBasics.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+The thread 0x4bf4 has exited with code 0 (0x0).
+The thread 0x4bd4 has exited with code 0 (0x0).
+The thread 0x4854 has exited with code 0 (0x0).
+The thread 0x3088 has exited with code 0 (0x0).
+The thread 0x41cc has exited with code 0 (0x0).
+The thread 0x2c04 has exited with code 0 (0x0).
+The thread 0x2ce4 has exited with code 0 (0x0).
+The thread 0x20e8 has exited with code 0 (0x0).
+The thread 0x4690 has exited with code 0 (0x0).
+The thread 0x4b68 has exited with code 0 (0x0).
+The program '[2940] GUIBasics.exe' has exited with code 0 (0x0).
